@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Voice-Based Mental Health Detection Using Flutter and ML",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Develop a Flutter app that uses machine learning to detect mental health conditions through voice analysis. The app analyzes voice patterns to identify indicators of mental health issues, providing an accessible tool for early detection and monitoring.",
+    url: "https://github.com/GirishSonune/oncoKnow",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Telegram Bot",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "I've designed a customized Telegram bot utilizing Python's Telegram library and native modules. The bot serves as a platform to store and organize professional information and links, providing streamlined access to essential details through a user-friendly interface.",
+    url: "https://github.com/GirishSonune/Telegram-Bot",
   },
   {
-    title: "My Resume Site",
+    title: "Object Detection in Image",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "I created a Python project utilizing the OpenCV, NumPy, and Matplotlib libraries for efficient object and coin counting. Leveraging computer vision techniques, the project achieves accurate object detection and coin recognition.",
+    url: "https://github.com/GirishSonune/Object-Detection-in-Image",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Movie Recommendation System",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "I harnessed the robust capabilities of Python's NumPy and Pandas libraries to analyze a .csv dataset provided by Netflix. Employing advanced data processing techniques, I identified and highlighted key trends within the dataset.",
+    url: "https://github.com/GirishSonune/Movie-Recommender",
   },
 ];
 

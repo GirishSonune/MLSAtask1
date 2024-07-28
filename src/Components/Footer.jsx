@@ -71,13 +71,13 @@ const Footer = (props) => {
           </a>
         )}
         {gitHub && (
-          <a href={`https://github.com/${gitHub}`} target="_blank" rel="noopener noreferrer">
+          <a href={`https://github.com/GirishSonune`} target="_blank" rel="noopener noreferrer">
             <img src={gitHubIcon} alt="GitHub" className="socialIcon" />
           </a>
         )}
         {instagram && (
           <a
-            href={`https://www.instagram.com/${instagram}`}
+            href={`https://instagram.com/girish_sonune?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D`}
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -86,7 +86,7 @@ const Footer = (props) => {
         )}
         {linkedIn && (
           <a
-            href={`https://www.linkedin.com/in/${linkedIn}`}
+            href={`https://www.linkedin.com/in/girish-sonune-7a7090255`}
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -94,18 +94,18 @@ const Footer = (props) => {
           </a>
         )}
         {medium && (
-          <a href={`https://medium.com/@${medium}`} target="_blank" rel="noopener noreferrer">
+          <a href={`https://medium.com/@girish.sonune`} target="_blank" rel="noopener noreferrer">
             <img src={mediumIcon} alt="Medium" className="socialIcon" />
           </a>
         )}
         {twitter && (
-          <a href={`https://twitter.com/${twitter}`} target="_blank" rel="noopener noreferrer">
+          <a href={`https://twitter.com/GirishSonune?t=5vldDBscsdJYUqxFj4srKw&s=09`} target="_blank" rel="noopener noreferrer">
             <img src={twitterIcon} alt="Twitter" className="socialIcon" />
           </a>
         )}
         {youTube && (
           <a
-            href={`https://www.youtube.com/c/${youTube}`}
+            href={`https://youtube.com/@Go-With-Me123`}
             target="_blank"
             rel="noopener noreferrer"
           >
